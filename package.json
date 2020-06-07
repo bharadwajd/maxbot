@@ -1,0 +1,22 @@
+{
+  "name": "maxbot",
+  "version": "1.0.0",
+  "description": "This is test of maxbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharadwajd/maxbot.git"
+  },
+  "keywords": [
+    "axbot"
+  ],
+  "author": "bharath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bharadwajd/maxbot/issues"
+  },
+  "homepage": "https://github.com/bharadwajd/maxbot#readme"
+}
